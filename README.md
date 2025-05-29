@@ -36,4 +36,5 @@ src/
 ├── App.tsx             # App root component
 ├── main.tsx            # Entry point
 
-![image](https://github.com/user-attachments/assets/40b726de-2b46-4b41-8f13-c3e30f5a8333)
+
+![screenshot](https://github.com/user-attachments/assets/8a8b1eed-a86d-41cb-8543-9c351cc08e9c)
