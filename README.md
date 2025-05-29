@@ -34,7 +34,3 @@ src/
 ├── types/              # TypeScript types and enums (Todo, Status, etc.)
 ├── utils/              # Validation and helpers (Yup schemas, etc.)
 ├── App.tsx             # App root component
-├── main.tsx            # Entry point
-
-
-![screenshot](https://github.com/user-attachments/assets/8a8b1eed-a86d-41cb-8543-9c351cc08e9c)
