@@ -34,3 +34,5 @@ src/
 ├── types/              # TypeScript types and enums (Todo, Status, etc.)
 ├── utils/              # Validation and helpers (Yup schemas, etc.)
 ├── App.tsx             # App root component
+
+![Image](https://github.com/user-attachments/assets/a45a5b2c-88de-47ca-8d99-62b552538c78)
